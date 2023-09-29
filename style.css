@@ -25,7 +25,7 @@ nav{
     padding: 2% 6%;
     justify-content: space-between;  /*如果只有两个东西space between 会把一个放到最前一个放到最后*/
     align-items: center;    /*把home about.....放在格子的中间*/
-    border: 2px solid green;
+    border: 2px solid blue;
 }
 
  /*univerity logo*/
